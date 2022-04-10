@@ -1,0 +1,42 @@
+#img1{
+    width: 30px;
+    height: 30px;
+}
+#b2r{
+    background-color: red;
+    width: 30px;
+    height: 30px;
+}
+#green{
+    background-color: green;
+    color: yellow;
+}
+#switch{
+    width: 30px;
+    height: 30px;
+    background-image: url(forest.jpg);
+}
+#blue{
+    background-color: blue;
+    border: 0 solid wheat;
+    border-radius: 0;
+    width: 30px;
+    height: 30px;
+}
+#img2{
+    width: 30px;
+    height: 30px;
+    filter: grayscale(2);
+}
+#container{
+    display: flex;
+}
+.menue{
+    background-color: black;
+    color: aliceblue;
+    width: 100px;
+    height: 30px;
+}
+a{
+    text-decoration: none;
+}

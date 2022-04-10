@@ -1,0 +1,42 @@
+#img1{
+    width: 100px;
+    height: 100px;
+}
+#b2r{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+#green{
+    background-color: green;
+    color: white;
+}
+#switch{
+    width: 100px;
+    height: 100px;
+    background-image: url(mountains.jpg);
+}
+#blue{
+    background-color: blue;
+    border: 0 solid wheat;
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+}
+#img2{
+    width: 100px;
+    height: 100px;
+    filter: blur(15px);
+}
+#container{
+    flex-direction: column;
+}
+.menue{
+    background-color: black;
+    color: aliceblue;
+    width: 100px;
+    height: 30px;
+}
+a{
+    text-decoration: none;
+}
